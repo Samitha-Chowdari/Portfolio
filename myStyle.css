@@ -449,17 +449,17 @@ body{
     }
     .home-content span {
         font-size: 0.9rem;
-    
     }
     .home .home-content p{
         margin: 0.5rem 0 0 0;
+        font-size: 0.8rem;
     }
     .socialmedia a {
         font-size: 0.8rem;
         padding: 0.2rem;
     }
     .home-img{
-        margin-bottom: 2rem;
+        margin-bottom: 3.5rem;
     }
     .home-img img{
         margin:0;
