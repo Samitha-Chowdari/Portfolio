@@ -1,20 +1,20 @@
 # Personal Portfolio
 
-Welcome to my personal portfolio! This website showcases my skills, projects, achievements, and experiences as I progress in my development journey.
+Welcome to my personal portfolio! This website showcases my skills, projects, and experiences as I progress in my development journey.
 
 ## 📜 About Me
 
-A brief introduction to who you are, your background, and your goals. For example:
+A brief introduction to who am I. For example:
 - Name
-- Current role/degree
-- Technologies you're passionate about
+- Current degree
+- Technologies passionated about
 - Career goals or aspirations
 
 ## 💻 Project Overview
 
 It is being built to demonstrate:
 - My skills in **front-end development** using HTML, CSS, JavaScript.
-- A **responsive layout** that adapts to different screen sizes.
+- A **Responsive layout** that adapts to different screen sizes.
 - **Interactive features** (like navigation and animations).
 
 ## 🚀 Tech Stack
@@ -26,6 +26,6 @@ It is being built to demonstrate:
 ## 🔨 Features
 
 - **Responsive design**: Adapts to mobile, tablet, and desktop views.
-- **Project showcase**: A section where I display some of my projects, including links to GitHub repositories.
+- **Project showcase**: A section where I display some of my projects, available in my GitHub repositories.
 - **Skills section**: Highlighting technologies and tools I’m proficient in.
-- **Contact section**: A form to contact me directly or link to social profiles.
+- **Contact section**: To contact me through social profiles.
