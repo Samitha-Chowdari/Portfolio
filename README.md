@@ -29,3 +29,8 @@ It is being built to demonstrate:
 - **Project showcase**: A section where I display some of my projects, available in my GitHub repositories.
 - **Skills section**: Highlighting technologies and tools I’m proficient in.
 - **Contact section**: To contact me through social profiles.
+
+## 🔥 Live Demo
+
+You can view the live project on GitHub Pages:  
+[PortfolioPage](https://samitha-chowdari.github.io/Portfolio/)
